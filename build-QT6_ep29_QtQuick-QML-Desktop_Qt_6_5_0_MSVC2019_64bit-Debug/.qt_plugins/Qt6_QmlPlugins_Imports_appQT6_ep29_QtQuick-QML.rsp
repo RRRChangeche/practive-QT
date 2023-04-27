@@ -1,0 +1,14 @@
+-rootPath
+C:/AL/Course/C++/Qt/QT6_ep29_QtQuick-QML
+-cmake-output
+-output-file
+C:/AL/Course/C++/Qt/build-QT6_ep29_QtQuick-QML-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQT6_ep29_QtQuick-QML.cmake
+-importPath
+C:/AL/Course/C++/Qt/build-QT6_ep29_QtQuick-QML-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QT6_ep29_QtQuick-QML
+-importPath
+C:/AL/Course/C++/Qt/build-QT6_ep29_QtQuick-QML-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.5.0/msvc2019_64/./qml
+-qrcFiles
+C:/AL/Course/C++/Qt/build-QT6_ep29_QtQuick-QML-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qmake_QT6_ep29_QtQuick-QML.qrc
+C:/AL/Course/C++/Qt/build-QT6_ep29_QtQuick-QML-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/appQT6_ep29_QtQuick-QML_raw_qml_0.qrc

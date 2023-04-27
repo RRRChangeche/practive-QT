@@ -1,0 +1,51 @@
+[
+    {
+        "classes": [
+            {
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    }
+                ],
+                "className": "Calculate",
+                "object": true,
+                "qualifiedClassName": "Calculate",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QVariant"
+                            }
+                        ],
+                        "name": "calculatedNumber",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QVariant"
+                            }
+                        ],
+                        "name": "calculate",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "calculate.h",
+        "outputRevision": 68
+    }
+]

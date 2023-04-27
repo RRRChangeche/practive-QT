@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/QT6_ep29_QtQuick-QML/">
+    <file alias="Main.qml">C:/AL/Course/C++/Qt/QT6_ep29_QtQuick-QML/Main.qml</file>
+    <file alias="calculate.cpp">C:/AL/Course/C++/Qt/QT6_ep29_QtQuick-QML/calculate.cpp</file>
+    <file alias="calculate.h">C:/AL/Course/C++/Qt/QT6_ep29_QtQuick-QML/calculate.h</file>
+  </qresource>
+</RCC>
+

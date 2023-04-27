@@ -1,0 +1,14 @@
+# ninja log v5
+5	245	7037714626630288	QT6_ep24_Qt-concurrent_autogen/timestamp	445c8b40a947a61b
+5	245	7037714626630288	C:/AL/Course/C++/Qt/build-QT6_ep24_Qt-concurrent-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QT6_ep24_Qt-concurrent_autogen/timestamp	445c8b40a947a61b
+5	245	7037714626630288	QT6_ep24_Qt-concurrent_autogen/mocs_compilation.cpp	445c8b40a947a61b
+5	245	7037714626630288	C:/AL/Course/C++/Qt/build-QT6_ep24_Qt-concurrent-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QT6_ep24_Qt-concurrent_autogen/mocs_compilation.cpp	445c8b40a947a61b
+406	1107	7035951647656042	CMakeFiles/QT6_ep24_Qt-concurrent.dir/QT6_ep24_Qt-concurrent_autogen/mocs_compilation.cpp.obj	36c7ae42f9a03c08
+4067	4410	7037714667720333	QT6_ep24_Qt-concurrent.exe	e974448cec0209d4
+252	4066	7037714664779944	CMakeFiles/QT6_ep24_Qt-concurrent.dir/main.cpp.obj	da8dfa13c7840ba6
+10	269	7037758662113374	QT6_ep24_Qt-concurrent_autogen/timestamp	445c8b40a947a61b
+10	269	7037758662113374	QT6_ep24_Qt-concurrent_autogen/mocs_compilation.cpp	445c8b40a947a61b
+10	269	7037758662113374	C:/AL/Course/C++/Qt/build-QT6_ep24_Qt-concurrent-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QT6_ep24_Qt-concurrent_autogen/timestamp	445c8b40a947a61b
+10	269	7037758662113374	C:/AL/Course/C++/Qt/build-QT6_ep24_Qt-concurrent-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QT6_ep24_Qt-concurrent_autogen/mocs_compilation.cpp	445c8b40a947a61b
+276	4156	7037758700916884	CMakeFiles/QT6_ep24_Qt-concurrent.dir/main.cpp.obj	da8dfa13c7840ba6
+4157	4534	7037758704217084	QT6_ep24_Qt-concurrent.exe	e974448cec0209d4

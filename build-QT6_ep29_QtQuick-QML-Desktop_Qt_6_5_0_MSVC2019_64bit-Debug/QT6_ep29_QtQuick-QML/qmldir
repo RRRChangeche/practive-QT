@@ -1,0 +1,5 @@
+module QT6_ep29_QtQuick-QML
+typeinfo appQT6_ep29_QtQuick-QML.qmltypes
+prefer :/QT6_ep29_QtQuick-QML/
+Main 1.0 Main.qml
+

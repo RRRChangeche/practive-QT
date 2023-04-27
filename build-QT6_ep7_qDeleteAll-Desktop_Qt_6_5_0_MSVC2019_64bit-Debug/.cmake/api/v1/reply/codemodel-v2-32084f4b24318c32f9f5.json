@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f0594938c158b53336ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT6_ep7_qDeleteAll",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_ep7_qDeleteAll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_ep7_qDeleteAll-Debug-333c9c250b7415e20800.json",
+					"name" : "QT6_ep7_qDeleteAll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_ep7_qDeleteAll_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_ep7_qDeleteAll_autogen-Debug-3e2389fef7763d64099f.json",
+					"name" : "QT6_ep7_qDeleteAll_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_ep7_qDeleteAll_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_ep7_qDeleteAll_autogen_timestamp_deps-Debug-882d0cfaa9c00bf22f87.json",
+					"name" : "QT6_ep7_qDeleteAll_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ASUS/Documents/build-QT6_ep7_qDeleteAll-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/ASUS/Documents/QT6_ep7_qDeleteAll"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

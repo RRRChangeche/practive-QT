@@ -1,0 +1,27 @@
+# ninja log v5
+2	591	7034280192714594	QObject_autogen/timestamp	a30a167505a154d5
+2	591	7034280192714594	QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+2	591	7034280192714594	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/timestamp	a30a167505a154d5
+2	591	7034280192714594	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+616	2852	7034280216517642	CMakeFiles/QObject.dir/test.cpp.obj	891b863a4dc21e04
+592	2856	7034280216542977	CMakeFiles/QObject.dir/main.cpp.obj	2f175ace76a259b0
+603	2858	7034280216532843	CMakeFiles/QObject.dir/QObject_autogen/mocs_compilation.cpp.obj	8ee09785ab38828b
+2860	3445	7034280222405809	QObject.exe	6c973fa1428a1d88
+13	437	7034283803918491	QObject_autogen/timestamp	a30a167505a154d5
+13	437	7034283803918491	QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+13	437	7034283803918491	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/timestamp	a30a167505a154d5
+13	437	7034283803918491	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+447	2736	7034283826895815	CMakeFiles/QObject.dir/main.cpp.obj	2f175ace76a259b0
+2737	3242	7034283831404594	QObject.exe	6c973fa1428a1d88
+5	383	7034419564181911	QObject_autogen/timestamp	a30a167505a154d5
+5	383	7034419564181911	QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+5	383	7034419564181911	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/timestamp	a30a167505a154d5
+5	383	7034419564181911	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+396	3704	7034419597395076	CMakeFiles/QObject.dir/main.cpp.obj	2f175ace76a259b0
+3706	4090	7034419600750760	QObject.exe	6c973fa1428a1d88
+26	426	7034451399048559	QObject_autogen/timestamp	a30a167505a154d5
+26	426	7034451399048559	QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+26	426	7034451399048559	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/timestamp	a30a167505a154d5
+26	426	7034451399048559	C:/AL/Course/C++/Qt/build-QObject-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/QObject_autogen/mocs_compilation.cpp	a30a167505a154d5
+433	2668	7034451421420128	CMakeFiles/QObject.dir/main.cpp.obj	2f175ace76a259b0
+2670	3181	7034451425640473	QObject.exe	6c973fa1428a1d88

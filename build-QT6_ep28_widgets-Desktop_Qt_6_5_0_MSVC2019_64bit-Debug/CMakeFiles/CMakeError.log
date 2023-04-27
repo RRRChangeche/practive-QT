@@ -1,0 +1,57 @@
+Performing C++ SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: C:/AL/Course/C++/Qt/build-QT6_ep28_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_a7f58 && [1/2] Building CXX object CMakeFiles\cmTC_a7f58.dir\src.cxx.obj
+FAILED: CMakeFiles/cmTC_a7f58.dir/src.cxx.obj 
+C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\HostX64\x64\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\cmTC_a7f58.dir\src.cxx.obj /FdCMakeFiles\cmTC_a7f58.dir\ /FS -c C:\AL\Course\C++\Qt\build-QT6_ep28_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug\CMakeFiles\CMakeTmp\src.cxx
+C:\AL\Course\C++\Qt\build-QT6_ep28_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug\CMakeFiles\CMakeTmp\src.cxx(1): fatal error C1083: 無法開啟包含檔案: 'pthread.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: C:/AL/Course/C++/Qt/build-QT6_ep28_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_1947e && [1/2] Building CXX object CMakeFiles\cmTC_1947e.dir\CheckFunctionExists.cxx.obj
+[2/2] Linking CXX executable cmTC_1947e.exe
+FAILED: cmTC_1947e.exe 
+cmd.exe /C "cd . && C:\Qt\Tools\CMake_64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_1947e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1947e.dir\CheckFunctionExists.cxx.obj  /out:cmTC_1947e.exe /implib:cmTC_1947e.lib /pdb:cmTC_1947e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1947e.dir\CheckFunctionExists.cxx.obj /out:cmTC_1947e.exe /implib:cmTC_1947e.lib /pdb:cmTC_1947e.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_1947e.dir/intermediate.manifest CMakeFiles\cmTC_1947e.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: 無法開啟檔案 'pthreads.lib'
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function pthread_create exists in the pthread failed with the following output:
+Change Dir: C:/AL/Course/C++/Qt/build-QT6_ep28_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_6e964 && [1/2] Building CXX object CMakeFiles\cmTC_6e964.dir\CheckFunctionExists.cxx.obj
+[2/2] Linking CXX executable cmTC_6e964.exe
+FAILED: cmTC_6e964.exe 
+cmd.exe /C "cd . && C:\Qt\Tools\CMake_64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_6e964.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_6e964.dir\CheckFunctionExists.cxx.obj  /out:cmTC_6e964.exe /implib:cmTC_6e964.lib /pdb:cmTC_6e964.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_6e964.dir\CheckFunctionExists.cxx.obj /out:cmTC_6e964.exe /implib:cmTC_6e964.lib /pdb:cmTC_6e964.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_6e964.dir/intermediate.manifest CMakeFiles\cmTC_6e964.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: 無法開啟檔案 'pthread.lib'
+ninja: build stopped: subcommand failed.
+
+
+

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-17f4de36f7a15ecf1a30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_MainWindow",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_MainWindow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_MainWindow-Debug-15675f67ea8e099612ef.json",
+					"name" : "test_MainWindow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_MainWindow_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_MainWindow_autogen-Debug-d97b3ca6b3ce52d6b67a.json",
+					"name" : "test_MainWindow_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_MainWindow_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_MainWindow_autogen_timestamp_deps-Debug-8fc83f7ff515e03879a9.json",
+					"name" : "test_MainWindow_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/AL/Course/C++/Qt/build-test_MainWindow-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug",
+		"source" : "C:/AL/Course/C++/Qt/test_MainWindow"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

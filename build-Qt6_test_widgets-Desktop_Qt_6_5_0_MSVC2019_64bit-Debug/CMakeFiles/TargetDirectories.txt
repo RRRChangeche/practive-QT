@@ -1,0 +1,8 @@
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/Qt6_test_widgets.dir
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/Qt6_test_widgets_autogen_timestamp_deps.dir
+C:/AL/Course/C++/Qt/build-Qt6_test_widgets-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/CMakeFiles/Qt6_test_widgets_autogen.dir

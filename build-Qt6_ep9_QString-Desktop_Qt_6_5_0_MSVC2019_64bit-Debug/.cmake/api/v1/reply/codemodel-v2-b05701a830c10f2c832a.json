@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-56e8a128ce7666656da6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qt6_ep9_QString",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt6_ep9_QString::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt6_ep9_QString-Debug-d5a09a89a7f3b6d7231e.json",
+					"name" : "Qt6_ep9_QString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt6_ep9_QString_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt6_ep9_QString_autogen-Debug-52210bf155e345af1faa.json",
+					"name" : "Qt6_ep9_QString_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt6_ep9_QString_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt6_ep9_QString_autogen_timestamp_deps-Debug-04ad418f2a290d0e4b6e.json",
+					"name" : "Qt6_ep9_QString_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/AL/Course/C++/Qt/build-Qt6_ep9_QString-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug",
+		"source" : "C:/AL/Course/C++/Qt/Qt6_ep9_QString"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

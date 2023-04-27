@@ -1,0 +1,20 @@
+
+#include "test.h"
+
+Test::Test(QObject *parent)
+    : QObject{parent}
+{
+    qInfo() << this << "Constructed" << parent;
+}
+
+Test::~Test()
+{
+    // list children of the object
+    foreach (QObject* child, children()) {
+        qInfo() << this << " - child - " << child;
+    }
+
+    qInfo() << this << "Deconstructed" << this->parent();
+//    qInfo() << this << "Deconstructed" << parent; // Error
+}
+

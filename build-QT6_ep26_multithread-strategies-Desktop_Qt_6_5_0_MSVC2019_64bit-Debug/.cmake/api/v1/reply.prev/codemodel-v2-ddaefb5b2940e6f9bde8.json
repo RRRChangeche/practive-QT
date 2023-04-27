@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f9870ec7aa71343ac156.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT6_ep26_multithread-strategies",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_ep26_multithread-strategies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_ep26_multithread-strategies-Debug-e658db527cfe931391e2.json",
+					"name" : "QT6_ep26_multithread-strategies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_ep26_multithread-strategies_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_ep26_multithread-strategies_autogen-Debug-a198b6b8c2ad7afaea49.json",
+					"name" : "QT6_ep26_multithread-strategies_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_ep26_multithread-strategies_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_ep26_multithread-strategies_autogen_timestamp_deps-Debug-fade0208a329d69a4f6a.json",
+					"name" : "QT6_ep26_multithread-strategies_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/AL/Course/C++/Qt/build-QT6_ep26_multithread-strategies-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug",
+		"source" : "C:/AL/Course/C++/Qt/QT6_ep26_multithread-strategies"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
